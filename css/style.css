@@ -17,11 +17,11 @@
   position: fixed;
 }
 
-.position-left{
+.position-top-left{
  left: 0;
 }
 
-.position-right{
+.position-top-right{
  right: 0;
 }
 
@@ -32,4 +32,5 @@
 
 .position-bottom-left{
  bottom: 0;
+ left: 0;
 }
