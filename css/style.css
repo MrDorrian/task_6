@@ -19,10 +19,12 @@
 
 .position-top-left{
  left: 0;
+ top: 0;
 }
 
 .position-top-right{
  right: 0;
+ top: 0;
 }
 
 .position-bottom-right{
